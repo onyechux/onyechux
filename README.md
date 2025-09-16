@@ -17,10 +17,10 @@
 ---
 
 ## 🔬 Focus Areas
-- **Swine infectious diseases**
+- Swine infectious diseases
 - Disease surveillance & novel diagnostics  
 - Statistical and machine-learning algorithms
-- Economic impact of swine pathogens  
+- Economic impact of food animal pathogens  
 - Open-access tools for veterinarians & producers  
 
 ---
