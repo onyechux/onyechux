@@ -27,15 +27,6 @@
 
 ---
 
-## 📈 Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryosemeke&show_icons=true&theme=transparent" width="350" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryosemeke&layout=compact&theme=transparent" width="290" alt="Top Languages">
-</p>
-
----
-
 ## 📫 Contact
 
 | Email | Institution |
