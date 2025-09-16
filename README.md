@@ -12,7 +12,6 @@
   <a href="https://orcid.org/0000-0003-4520-0121"><img src="https://img.shields.io/badge/ORCID-0000--0003--4520--0121-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
   <img src="https://img.shields.io/badge/Member-CRIPA-green" alt="CRIPA">
   <img src="https://img.shields.io/badge/Member-LEMP-orange" alt="LEMP">
-  <img src="https://komarev.com/ghpvc/?username=henryosemeke&label=Visitors&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 ---
